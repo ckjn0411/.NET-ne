@@ -1,0 +1,15 @@
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\bin\Debug\net8.0\Lesson.buoi1.exe
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\bin\Debug\net8.0\Lesson.buoi1.deps.json
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\bin\Debug\net8.0\Lesson.buoi1.runtimeconfig.json
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\bin\Debug\net8.0\Lesson.buoi1.dll
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\bin\Debug\net8.0\Lesson.buoi1.pdb
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\obj\Debug\net8.0\Lesson.buoi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\obj\Debug\net8.0\Lesson.buoi1.AssemblyInfoInputs.cache
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\obj\Debug\net8.0\Lesson.buoi1.AssemblyInfo.cs
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\obj\Debug\net8.0\Lesson.buoi1.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\obj\Debug\net8.0\Lesson.buoi1.sourcelink.json
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\obj\Debug\net8.0\Lesson.buoi1.dll
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\obj\Debug\net8.0\refint\Lesson.buoi1.dll
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\obj\Debug\net8.0\Lesson.buoi1.pdb
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\obj\Debug\net8.0\Lesson.buoi1.genruntimeconfig.cache
+D:\TaiLieuHocTap\PiedTeam\.NET\Lesson\Lesson.buoi1\obj\Debug\net8.0\ref\Lesson.buoi1.dll

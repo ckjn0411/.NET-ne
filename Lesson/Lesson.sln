@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson.buoi1", "Lesson.buoi1\Lesson.buoi1.csproj", "{DC4D9EF4-AE81-4F17-B08E-BFE66C7880DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson.buoi2", "Lesson.buoi2\Lesson.buoi2.csproj", "{3726337D-2C32-4190-B07E-378456585493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson.buoi2.a1", "Lesson.buoi2.a1\Lesson.buoi2.a1.csproj", "{3B29D2F7-DE1B-4431-BBF3-9F457C290F6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{DC4D9EF4-AE81-4F17-B08E-BFE66C7880DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC4D9EF4-AE81-4F17-B08E-BFE66C7880DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC4D9EF4-AE81-4F17-B08E-BFE66C7880DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3726337D-2C32-4190-B07E-378456585493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3726337D-2C32-4190-B07E-378456585493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3726337D-2C32-4190-B07E-378456585493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3726337D-2C32-4190-B07E-378456585493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B29D2F7-DE1B-4431-BBF3-9F457C290F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B29D2F7-DE1B-4431-BBF3-9F457C290F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B29D2F7-DE1B-4431-BBF3-9F457C290F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B29D2F7-DE1B-4431-BBF3-9F457C290F6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

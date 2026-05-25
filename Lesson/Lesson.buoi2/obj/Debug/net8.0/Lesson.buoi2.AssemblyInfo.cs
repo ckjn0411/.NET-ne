@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson.buoi2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e775113069492e5a4a90d8a90aba653019918ef2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e4ee72ee81da9053d9d07dd25cbbc5ac20381e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson.buoi2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson.buoi2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
